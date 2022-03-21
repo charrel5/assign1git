@@ -1,6 +1,7 @@
 # assign1git
 Chris Harrel
 
-First comment
-Second comment
-new git branch on GitHub
+First comment  
+Second comment  
+Third comment  
+new git branch on GitHub  
